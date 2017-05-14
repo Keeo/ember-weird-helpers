@@ -1,6 +1,6 @@
 {
   "name": "ember-weird-helpers",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
@@ -43,7 +43,6 @@
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.13.0",
-
     "loader.js": "^4.2.3"
   },
   "engines": {
